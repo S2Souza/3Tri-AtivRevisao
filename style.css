@@ -1,0 +1,19 @@
+body {background-color: blanchedalmond;}
+
+h1 {color: coral;
+font-style: oblique;
+background-color: rgb(252, 184, 160);}
+
+h2 {color: coral;
+border-style: groove;
+border-width: 10px;
+border-color: darksalmon;
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;}
+
+
+
+#Laranjais { width: 30%;
+margin-left: 670px;}
+#jurema {width: 30%;   margin-left: 670px}
