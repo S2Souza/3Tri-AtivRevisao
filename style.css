@@ -27,3 +27,5 @@ body {
     background-repeat: no-repeat;
        }
        header { background-color: #e9967a;}
+       main { background-color: bisque;}
+       footer { background-color: darkmagenta;}
