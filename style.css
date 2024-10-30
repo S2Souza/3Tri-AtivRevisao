@@ -17,14 +17,10 @@ margin-right: 30%;}
 
 
 
- 
-
-body{#Laranjais { width: 20%;
-margin-left: 10%;}
-#jurema {width: 20%;   margin-left: 10%;}
-
-
-       }
-       header { background-color: #e9967a;}
+ body { header { background-color: #e9967a;}
        main { background-color: bisque;}
        footer { background-color: darkmagenta;}
+#jurema { width: 30%;}}
+
+
+      
