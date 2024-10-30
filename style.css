@@ -16,13 +16,13 @@ margin-right: 30%;}
 
 
 
-#Laranjais { width: 30%;
-margin-left: 30%;}
-#jurema {width: 30%;   margin-left: 30%;}
 
  
 
-body{
+body{#Laranjais { width: 30%;
+margin-left: 30%;}
+#jurema {width: 30%;   margin-left: 30%;}
+
 
        }
        header { background-color: #e9967a;}
