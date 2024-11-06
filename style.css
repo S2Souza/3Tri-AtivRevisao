@@ -20,10 +20,12 @@ margin-right: 30%;}
  body { header { background-color: #e9967a;}
        main { background-color: bisque;}
        footer { background-color: darkmagenta;}
-#Laranjais { width: 50%;}
+#Laranjais { width: 30%;}
 #jurema { width: 30%; 
 margin-left: 33%;}}
-#jardins { width: 30%;}
+#jardins { width: 30%;
+
+margin-left: 33%;}
 
 
       
